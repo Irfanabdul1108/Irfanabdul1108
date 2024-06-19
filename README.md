@@ -1,7 +1,7 @@
 ![logo](https://github.com/Irfanabdul1108/Irfanabdul1108/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Abdul Irfan</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="animated gif pic">
+<img align="right" width="385" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="animated gif pic">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanabdul1108&label=Profile%20views&color=0e75b6&style=flat" alt="irfanabdul1108" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abdul-irfan-53728a270/](https://www.linkedin.com/in/abdul-irfan-53728a270/)
