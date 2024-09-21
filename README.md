@@ -4,7 +4,7 @@
 <img align="right" width="385" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="animated gif pic">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanabdul1108&label=Profile%20views&color=0e75b6&style=flat" alt="irfanabdul1108" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abdul-irfan-53728a270/](https://www.linkedin.com/in/abdul-irfan-53728a270/)
+- 👨‍💻 Some of my projects are available at [https://www.linkedin.com/in/abdul-irfan-53728a270/](https://www.linkedin.com/in/abdul-irfan-53728a270/)
 
 - 📫 How to reach me **abdulirfan1108@gmail.com**
 
