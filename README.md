@@ -1,5 +1,4 @@
 ![Header](https://github.com/Irfanabdul1108/Irfanabdul1108/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-![Header](https://github.com/Irfanabdul1108/Irfanabdul1108/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">Hi there! I'm Abdul Irfan 🚀</h1>
 <h3 align="center">Full-Stack Developer | MERN Stack | React.js, Node.js, MongoDB | Proficient in JavaScript, TypeScript, Python, C++ | Strong in DSA & Problem-Solving | Open to Full-Stack & Backend Roles</h3>
