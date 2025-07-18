@@ -71,9 +71,6 @@ I'm a passionate **Computer Science Engineering student** at Vignan Institute of
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanabdul1108&theme=radical" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanabdul1108&theme=react-dark" alt="GitHub Activity Graph"/>
-</div>
 
 ## 🤝 Connect with Me
 
