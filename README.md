@@ -7,7 +7,6 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=irfanabdul1108&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/irfanabdul1108?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ## 🎯 About Me
@@ -21,53 +20,6 @@ I'm a passionate **Computer Science Engineering student** at Vignan Institute of
 - 🏆 **4th position** in **SusHacks** - India Wide Hackathon
 - 📫 Reach me at **abdulirfan1108@gmail.com**
 
-## 💼 Work Experience
-
-### 🚀 Vertx AI - Web Developer
-**Mar 2025 – Jun 2025**
-- Developed **GoVertx**, a comprehensive platform connecting startups with investors
-- Built scalable features for profile verification, search, and networking
-- Collaborated with design and backend teams to enhance user experience
-- **Tech Stack**: MongoDB, Express.js, Node.js, React.js, Socket.io
-
-### 🌐 The Entrepreneurship Network (TEN) - React Developer
-**Jan 2025 – Apr 2025**
-- Contributed to **TEN-Incubation** platform supporting entrepreneurs
-- Developed frontend features with clean, efficient code
-- Integrated with backend APIs and worked closely with design teams
-- **Tech Stack**: React.js, Tailwind CSS, JavaScript, HTML5, CSS3
-
-## 🚀 Featured Projects
-
-### 🎨 Code Editor Pro
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://code-editor-pro.vercel.app) [![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/Irfanabdul1108/code-editor-pro)
-
-**Real-time collaborative code editor with AI assistance**
-- **Multi-user collaboration** with instant synchronization
-- **AI-powered Copilot** for code generation and completion
-- **Multi-file editing** with syntax highlighting
-- **Code execution** and workspace download as ZIP
-- **Tech Stack**: React.js, TypeScript, Tailwind CSS, Node.js, Express.js, Socket.io
-
-### 🗣️ TalknLearn
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://talknlearn.vercel.app) [![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/Irfanabdul1108/talknlearn)
-
-**Real-time language exchange platform**
-- **Video calls** and **global language rooms**
-- **JWT authentication** with protected routes
-- **Stream APIs** integration with typing indicators
-- **Responsive design** with theme customization
-- **Tech Stack**: React.js, Tailwind CSS, Zustand, TanStack Query, Node.js, Express.js, MongoDB
-
-### 📱 Social Vibe
-[![Live Demo](https://img.shields.io/badge/Live-Demo-orange)](https://social-vibe.vercel.app) [![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/Irfanabdul1108/social-vibe)
-
-**Feature-rich social media platform**
-- **Real-time CRUD operations** for seamless user experience
-- **Advanced search** and **like functionality**
-- **Theme toggling** and **responsive design**
-- **Firebase integration** for authentication and data storage
-- **Tech Stack**: React.js, TailwindCSS, Firebase, React Router
 
 ## 🛠️ Technical Skills
 
@@ -131,9 +83,6 @@ I'm a passionate **Computer Science Engineering student** at Vignan Institute of
   </a>
   <a href="https://leetcode.com/abdulirfan1108" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerrank.com/abdulirfan1108" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
   <a href="mailto:abdulirfan1108@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
