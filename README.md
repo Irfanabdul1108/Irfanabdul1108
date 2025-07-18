@@ -14,47 +14,17 @@
 
 ## 🎯 About Me
 
-I'm a passionate **Computer Science Engineering student** at Vignan Institute of Information Technology, Visakhapatnam, specializing in **Full-Stack Development** with expertise in the **MERN Stack**. Currently working as a **Web Developer at Vertx AI**, building cutting-edge platforms that connect startups, entrepreneurs, and investors.
+I'm a passionate **Computer Science Engineering student** at Vignan Institute of Information Technology, Visakhapatnam, specializing in **Full-Stack Development** with expertise in the **MERN Stack**. Previously worked as a **Web Developer at Vertx AI**, building cutting-edge platforms that connect startups, entrepreneurs, and investors.
 
 ### 🔥 Current Focus:
-- 🔭 Working on **GoVertx** - LinkedIn-like platform for startup ecosystem using **MERN Stack**
 - 🌱 Mastering **Advanced React Patterns**, **GraphQL**, and **AWS Cloud Services**
 - 💡 Building **Real-time Collaborative Applications** with **Socket.io** and **AI Integration**
-- 🎯 Solved **250+ LeetCode problems** with **1600+ rating** - Strong in **DSA & Problem-Solving**
-- 🏆 Achieved **4th position** in **SusHacks** - India Wide Hackathon
+- 🎯 Making more Strong in **DSA & Problem-Solving**
 - 📧 **Open to Full-Stack & Backend Developer Roles** - Contact: **abdulirfan1108@gmail.com**
 
 ### 🚀 Professional Experience:
 - **Web Developer** at **Vertx AI** (Mar 2025 – Jun 2025) - MERN Stack, Socket.io
 
-## 💼 Core Competencies
-
-### **🎨 Frontend Development**
-- **React.js** - Advanced hooks, context, performance optimization
-- **TypeScript** - Type-safe development, interfaces, generics
-- **Next.js** - SSR, SSG, API routes, performance optimization
-- **TailwindCSS** - Utility-first CSS, responsive design, custom themes
-- **HTML5 & CSS3** - Semantic markup, flexbox, grid, animations
-
-### **⚙️ Backend Development**
-- **Node.js** - RESTful APIs, middleware, authentication
-- **Express.js** - Server-side routing, error handling, security
-- **MongoDB** - Database design, aggregation, indexing
-- **Socket.io** - Real-time communication, room management
-- **Firebase** - Authentication, real-time database, hosting
-
-### **🔧 Programming Languages**
-- **JavaScript** - ES6+, async/await, promises, DOM manipulation
-- **TypeScript** - Static typing, interfaces, advanced types
-- **Python** - Data structures, algorithms, automation
-- **C++** - Object-oriented programming, STL, competitive programming
-
-### **🛠️ Developer Tools & Platforms**
-- **Git & GitHub** - Version control, collaboration, CI/CD
-- **Vercel & Render** - Deployment, performance monitoring
-- **Postman** - API testing, documentation
-- **AWS** - Cloud services, EC2, S3 (basic)
-- **Figma** - UI/UX design, prototyping
 
 ## 🛠️ Technical Stack
 
@@ -88,43 +58,6 @@ I'm a passionate **Computer Science Engineering student** at Vignan Institute of
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🚀 Featured Projects
-
-### 🎨 **Code Editor Pro** - Real-time Collaborative Development Environment
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://code-editor-pro.vercel.app) [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge)](https://github.com/Irfanabdul1108/code-editor-pro)
-
-**Tech Stack**: React.js, TypeScript, Node.js, Express.js, Socket.io, TailwindCSS
-
-**Key Features**:
-- 🤝 **Multi-user real-time collaboration** with instant code synchronization
-- 🤖 **AI-powered Copilot** for intelligent code generation and completion
-- 📁 **Multi-file workspace** with syntax highlighting and theme support
-- ⚡ **Code execution engine** with support for multiple programming languages
-- 📦 **Workspace download** as ZIP with complete project structure
-
-### 🗣️ **TalknLearn** - Global Language Exchange Platform
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://talknlearn.vercel.app) [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge)](https://github.com/Irfanabdul1108/talknlearn)
-
-**Tech Stack**: React.js, Node.js, Express.js, MongoDB, Socket.io, TailwindCSS
-
-**Key Features**:
-- 🎥 **Real-time video calls** with screen sharing and reactions
-- 🌍 **Global language rooms** for immersive learning experiences
-- 🔒 **JWT authentication** with secure user sessions
-- 💬 **Live chat** with typing indicators and message reactions
-- 📱 **Responsive design** with theme customization
-
-### 📱 **Social Vibe** - Modern Social Media Platform
-[![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge)](https://social-vibe.vercel.app) [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge)](https://github.com/Irfanabdul1108/social-vibe)
-
-**Tech Stack**: React.js, Firebase, TailwindCSS, React Router
-
-**Key Features**:
-- 🔐 **Complete authentication system** with profile management
-- ⚡ **Real-time CRUD operations** for posts and interactions
-- 🔍 **Advanced search functionality** with filtering capabilities
-- 💙 **Like and engagement features** with real-time updates
-- 🎨 **Theme toggle** with smooth animations and transitions
 
 ## 🏆 Achievements & Recognition
 
@@ -150,9 +83,6 @@ I'm a passionate **Computer Science Engineering student** at Vignan Institute of
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanabdul1108&theme=radical" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanabdul1108&theme=react-dark" alt="GitHub Activity Graph"/>
-</div>
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -162,9 +92,6 @@ I'm a passionate **Computer Science Engineering student** at Vignan Institute of
   </a>
   <a href="https://leetcode.com/abdulirfan1108" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerrank.com/abdulirfan1108" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
   <a href="mailto:abdulirfan1108@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -185,7 +112,7 @@ I'm a passionate **Computer Science Engineering student** at Vignan Institute of
 ## 🌟 Why Choose Me?
 
 - 🎯 **Proven Problem-Solving Skills** - 250+ LeetCode problems, 1600+ rating
-- 💡 **Real-world Experience** - Professional experience at Vertx AI and TEN
+- 💡 **Real-world Experience** - Professional experience at Vertx AI
 - 🚀 **Full-Stack Expertise** - Complete MERN stack development capabilities
 - 🔧 **Modern Technologies** - React, TypeScript, Node.js, Socket.io, AI integration
 - 🏆 **Hackathon Winner** - 4th position in India-wide competition
@@ -200,6 +127,6 @@ I'm a passionate **Computer Science Engineering student** at Vignan Institute of
 
 <p align="center">
   <strong>⭐ From <a href="https://github.com/Irfanabdul1108">Abdul Irfan</a></strong><br>
-  <em>Full-Stack Developer | MERN Stack Expert | Problem Solver | Open to Opportunities</em><br>
+  <em>Full-Stack Developer | Majorly MERN Stack | Problem Solver | Open to Opportunities</em><br>
   <strong>Let's build something amazing together! 🚀</strong>
 </p>
