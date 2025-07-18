@@ -7,7 +7,6 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=irfanabdul1108&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/irfanabdul1108?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen" alt="Open to work" />
   <img src="https://img.shields.io/badge/LeetCode-1600%2B%20Rating-orange" alt="LeetCode Rating" />
 </p>
