@@ -1,7 +1,8 @@
 ![Header](https://github.com/Irfanabdul1108/Irfanabdul1108/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">Hi there! I'm Abdul Irfan 🚀</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | React.js, Node.js, MongoDB | Proficient in JavaScript, TypeScript, Python, C++ | Strong in DSA & Problem-Solving | Open to Full-Stack & Backend Roles</h3>
+<h3 align="center">Aspiring Software Engineer | Full Stack Developer | MERN Stack & Java Backend Developer | React.js • Node.js • Spring Boot • Hibernate | Problem Solver | Open to Opportunities
+</h3>
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding animation">
 
@@ -13,13 +14,15 @@
 
 ## 🎯 About Me
 
-I'm a passionate **Computer Science Engineering student** at Vignan Institute of Information Technology, Visakhapatnam, specializing in **Full-Stack Development** with expertise in the **MERN Stack**. Previously worked as a **Web Developer at Vertx AI**, building cutting-edge platforms that connect startups, entrepreneurs, and investors.
+I'm a Computer Science graduate from Vignan Institute of Information Technology, Visakhapatnam, with a strong passion for building scalable and impactful software solutions. I'm a Full-Stack Developer skilled in the MERN Stack and currently expanding my expertise in Java Backend Development using Spring Boot.
+
+My goal is to build production-ready, high-performance applications by continuously learning modern technologies such as Docker, Redis, AWS, Microservices, and other backend tools. I'm eager to contribute to an organization where I can apply my skills, take on real-world challenges, collaborate with talented teams, and grow alongside the company while delivering meaningful results.
 
 ### 🔥 Current Focus:
-- 🌱 Mastering **Advanced React Patterns**, **GraphQL**, and **AWS Cloud Services**
-- 💡 Building **Real-time Collaborative Applications** with **Socket.io** and **AI Integration**
+- 🌱 Learning Java Backend Development with Spring Boot and strengthening my backend engineering skills to become a proficient Java Backend Developer.
+- 🚀 Exploring technologies required for building scalable, production-ready applications, including Docker, AWS, Redis, Microservices, Kafka, and modern backend architectures.
 - 🎯 Making more Strong in **DSA & Problem-Solving**
-- 📧 **Open to Full-Stack & Backend Developer Roles** - Contact: **abdulirfan1108@gmail.com**
+- 📧 **Open to Full-Stack Development Roles(MERN and JAVA)** - Contact: **abdulirfan1108@gmail.com**
 
 ### 🚀 Professional Experience:
 - **Web Developer** at **Vertx AI** (Mar 2025 – Jun 2025) - MERN Stack, Socket.io
@@ -30,7 +33,6 @@ I'm a passionate **Computer Science Engineering student** at Vignan Institute of
 ### **Frontend Technologies**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,11 +44,11 @@ I'm a passionate **Computer Science Engineering student** at Vignan Institute of
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL]([https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white))
 
 ### **Programming Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -100,11 +102,11 @@ I'm a passionate **Computer Science Engineering student** at Vignan Institute of
 
 ## 🎯 What I'm Looking For
 
-- 💼 **Full-Stack Developer** positions with **MERN Stack** focus
-- 🔧 **Backend Developer** roles using **Node.js**, **Express.js**, **MongoDB**
-- 🚀 **Startup environments** with innovative projects and growth opportunities
-- 🌟 **Remote-friendly** companies with collaborative development culture
-- 🤝 **Open source contributions** and community projects
+- ☕ **Java Backend Developer** roles using **Java**, **Spring Boot**, **Spring Security**, **Hibernate/JPA**, and **SQL**
+- 💼 **Full-Stack Developer** opportunities with **Java Backend + React**, leveraging my **MERN Stack** experience
+- 🚀 Opportunities to build **scalable, production-ready applications** using technologies like **Docker**, **Redis**, **Kafka**, **AWS**, and **Microservices**
+- 🌱 Organizations that value **continuous learning**, **innovation**, **collaboration**, and long-term professional growth
+- 🤝 A challenging environment where I can contribute, learn from experienced engineers, and grow together with the organization
 
 ## 🌟 Why Choose Me?
 
