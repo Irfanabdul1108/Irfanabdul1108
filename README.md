@@ -24,10 +24,7 @@ My goal is to build production-ready, high-performance applications by continuou
 - 🎯 Making more Strong in **DSA & Problem-Solving**
 - 📧 **Open to Full-Stack Development Roles(MERN and JAVA)** - Contact: **abdulirfan1108@gmail.com**
 
-### 🚀 Professional Experience:
-- **Web Developer** at **Vertx AI** (Mar 2025 – Jun 2025) - MERN Stack, Socket.io
 
-  
 ## 🛠️ Technical Stack
 
 ### **Frontend Technologies**
